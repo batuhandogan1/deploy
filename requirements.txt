@@ -6,3 +6,4 @@ Pillow
 scikit_learn
 streamlit
 tensorflow==2.7.0
+protobuf==3.20.*
